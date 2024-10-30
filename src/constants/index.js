@@ -5,16 +5,16 @@ import project4 from "../assets/projects/project-4.jpg";
 import project5 from "../assets/projects/ecom.png";
 import project6 from "../assets/projects/weather.png";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `Hi, I’m Nishanth! A passionate full stack developer with expertise in building scalable and efficient web applications. With hands-on experience in the MERN stack, I thrive in front-end development using React and back-end logic with Node.js and Express, along with managing databases like MongoDB and SQL Server. I enjoy solving complex problems, creating seamless user experiences, and continuously learning new technologies.Let’s collaborate and build something amazing!`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and adaptable full stack developer with a passion for building efficient and user-friendly web applications. As a Junior Software Developer, I have experience working with the MERN stack, including React, Node.js, Express, and MongoDB, along with SQL Server. My journey into web development began with a curiosity about how software works, and it has grown into a career focused on continuous learning and problem-solving. I enjoy working in collaborative environments, tackling complex challenges, and delivering high-quality solutions.`;
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
+    year: "2024 - Present",
+    role: "Junior Software Engineer",
+    company: "Maylasoft",
+    description: `Contributed to the development and maintenance of web applications using JavaScript, React.js, Node.js, and .NET. Assisted in implementing RESTful APIs and integrating with MongoDB and SQL Server databases. Collaborated with senior developers and stakeholders to gather project requirements, set timelines, and deliver effective solutions.`,
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
   {
