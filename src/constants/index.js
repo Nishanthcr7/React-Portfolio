@@ -60,7 +60,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "Js", "React"],
+    technologies: ["HTML", "CSS", "Js", "React","Git"],
   },
 ];
 
